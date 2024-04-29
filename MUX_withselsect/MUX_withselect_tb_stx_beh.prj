@@ -1,0 +1,2 @@
+vhdl isim_temp "MUX_withselsect.vhd"
+vhdl isim_temp "MUX_withselect_tb.vhd"

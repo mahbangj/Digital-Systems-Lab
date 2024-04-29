@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/university/az manteghi/jalase3/with select/MUX_withselsect/MUX_withselect_tb_isim_beh.exe" -prj "D:/university/az manteghi/jalase3/with select/MUX_withselsect/MUX_withselect_tb_beh.prj" "work.MUX_withselect_tb" 

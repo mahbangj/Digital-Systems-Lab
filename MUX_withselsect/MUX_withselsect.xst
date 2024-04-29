@@ -1,0 +1,5 @@
+set -tmpdir "D:/university/az manteghi/jalase3/with select/MUX_withselsect/xst/projnav.tmp"
+set -xsthdpdir "D:/university/az manteghi/jalase3/with select/MUX_withselsect/xst"
+elaborate
+-ifn MUX_withselsect.prj
+-ifmt mixed
