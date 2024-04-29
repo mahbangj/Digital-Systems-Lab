@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/university/az manteghi/jalase6/sevensegment/sevensegment_tb_isim_beh.exe" -prj "D:/university/az manteghi/jalase6/sevensegment/sevensegment_tb_beh.prj" "work.sevensegment_tb" 

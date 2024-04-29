@@ -1,0 +1,3 @@
+xst -intstyle ise -filter "D:/university/az manteghi/jalase6/sevensegment/iseconfig/filter.filter" -ifn "D:/university/az manteghi/jalase6/sevensegment/sevensegment.xst" -ofn "D:/university/az manteghi/jalase6/sevensegment/sevensegment.syr" 
+xst -intstyle ise -filter "D:/university/az manteghi/jalase6/sevensegment/iseconfig/filter.filter" -ifn "D:/university/az manteghi/jalase6/sevensegment/sevensegment.xst" -ofn "D:/university/az manteghi/jalase6/sevensegment/sevensegment.syr" 
+xst -intstyle ise -filter "D:/university/az manteghi/jalase6/sevensegment/iseconfig/filter.filter" -ifn "D:/university/az manteghi/jalase6/sevensegment/sevensegment.xst" -ofn "D:/university/az manteghi/jalase6/sevensegment/sevensegment.syr" 
