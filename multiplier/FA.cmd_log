@@ -1,0 +1,2 @@
+xst -intstyle ise -filter "D:/university/az manteghi/HW/multiplier/iseconfig/filter.filter" -ifn "D:/university/az manteghi/HW/multiplier/FA.xst" -ofn "D:/university/az manteghi/HW/multiplier/FA.syr" 
+vhdtdtfi -prj multiplier -o "D:/university/az manteghi/HW/multiplier/FA.vhi" -module FA -template D:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work FA.vhd 

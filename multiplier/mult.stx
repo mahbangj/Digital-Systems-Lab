@@ -1,0 +1,47 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/university/az manteghi/HW/multiplier/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.07 secs
+ 
+--> Parameter xsthdpdir set to D:/university/az manteghi/HW/multiplier/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.07 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/university/az manteghi/HW/multiplier/mult.vhd" in Library work.
+ERROR:HDLParsers:821 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 43. Wrong index type for m.
+ERROR:HDLParsers:164 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 45. parse error, unexpected PORT, expecting OPENPAR or TICK or LSQBRACK
+WARNING:HDLParsers:901 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 45. Label Inst_FA1 is ignored.
+ERROR:HDLParsers:821 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 54. Wrong index type for s.
+ERROR:HDLParsers:821 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 54. Wrong index type for m.
+ERROR:HDLParsers:821 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 58. Wrong index type for m.
+ERROR:HDLParsers:821 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 60. Wrong index type for c.
+ERROR:HDLParsers:821 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 61. Wrong index type for s.
+ERROR:HDLParsers:821 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 61. Wrong index type for m.
+ERROR:HDLParsers:821 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 62. Wrong index type for s.
+ERROR:HDLParsers:164 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 63. parse error, unexpected PORT, expecting OPENPAR or TICK or LSQBRACK
+WARNING:HDLParsers:901 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 63. Label Inst_FA2 is ignored.
+ERROR:HDLParsers:821 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 71. Wrong index type for m.
+ERROR:HDLParsers:821 - "D:/university/az manteghi/HW/multiplier/mult.vhd" Line 72. Wrong index type for m.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> 
+
+Total memory usage is 4470472 kilobytes
+
+Number of errors   :   12 (   0 filtered)
+Number of warnings :    3 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

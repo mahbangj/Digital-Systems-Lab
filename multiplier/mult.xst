@@ -1,0 +1,5 @@
+set -tmpdir "D:/university/az manteghi/HW/multiplier/xst/projnav.tmp"
+set -xsthdpdir "D:/university/az manteghi/HW/multiplier/xst"
+elaborate
+-ifn mult.prj
+-ifmt mixed

@@ -1,0 +1,1 @@
+xst -intstyle ise -filter "D:/university/az manteghi/HW/multiplier/iseconfig/filter.filter" -ifn "D:/university/az manteghi/HW/multiplier/mult.xst" -ofn "D:/university/az manteghi/HW/multiplier/mult.syr" 
