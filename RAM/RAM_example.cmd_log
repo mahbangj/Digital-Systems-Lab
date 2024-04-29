@@ -1,0 +1,1 @@
+xst -intstyle ise -filter "D:/university/az manteghi/jalase9/RAM/iseconfig/filter.filter" -ifn "D:/university/az manteghi/jalase9/RAM/RAM_example.xst" -ofn "D:/university/az manteghi/jalase9/RAM/RAM_example.syr" 

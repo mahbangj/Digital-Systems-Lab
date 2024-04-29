@@ -1,0 +1,2 @@
+xst -intstyle ise -filter "D:/university/az manteghi/jalase9/RAM/iseconfig/filter.filter" -ifn "D:/university/az manteghi/jalase9/RAM/RAM.xst" -ofn "D:/university/az manteghi/jalase9/RAM/RAM.syr" 
+vhdtdtfi -prj RAM -o "D:/university/az manteghi/jalase9/RAM/RAM.vhi" -module RAM -template D:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work RAM.vhd 
