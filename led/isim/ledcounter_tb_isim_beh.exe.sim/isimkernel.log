@@ -1,0 +1,28 @@
+Command line:
+   ledcounter_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  3724
+
+Fri Apr 30 15:09:22 2021
+
+
+ Elaboration Time: 0.15625 sec
+
+ Current Memory Usage: 5155.82 Meg
+
+ Total Signals          : 5
+ Total Nets             : 28
+ Total Signal Drivers   : 3
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 3
+ Total Traceable Variables  : 14
+ Total Scalar Nets and Variables : 512
+
+ Total Simulation Time: 22293.9 sec
+
+ Current Memory Usage: 4841.25 Meg
+
+Fri Apr 30 23:08:08 2021
+

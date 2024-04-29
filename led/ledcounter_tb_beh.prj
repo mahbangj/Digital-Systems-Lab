@@ -1,0 +1,2 @@
+vhdl work "ledcounter.vhd"
+vhdl work "ledcounter_tb.vhd"
