@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+FA4bit instance_name (
+    .a(a), 
+    .b(b), 
+    .c(c), 
+    .sum_out(sum_out), 
+    .c_out(c_out)
+    );
+
+

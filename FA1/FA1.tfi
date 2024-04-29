@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+FA1 instance_name (
+    .A(A), 
+    .B(B), 
+    .C(C), 
+    .sum(sum), 
+    .cout(cout)
+    );
+
+

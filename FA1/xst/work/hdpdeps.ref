@@ -1,0 +1,13 @@
+V3 7
+FL "D:/university/az manteghi/jalase2/FA/FA1/FA1.vhd" 2021/04/02.14:57:48 P.20131013
+EN work/FA1 1617362069 FL "D:/university/az manteghi/jalase2/FA/FA1/FA1.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/FA1/Behavioral 1617362070 \
+      FL "D:/university/az manteghi/jalase2/FA/FA1/FA1.vhd" EN work/FA1 1617362069
+FL "D:/university/az manteghi/jalase2/FA/FA1/FA4bit.vhd" 2021/04/02.15:44:28 P.20131013
+EN work/FA4bit 1617362071 \
+      FL "D:/university/az manteghi/jalase2/FA/FA1/FA4bit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/FA4bit/Behavioral 1617362072 \
+      FL "D:/university/az manteghi/jalase2/FA/FA1/FA4bit.vhd" EN work/FA4bit 1617362071 \
+      CP FA1

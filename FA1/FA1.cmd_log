@@ -1,0 +1,8 @@
+vhdtdtfi -prj FA1 -o "D:/university/az manteghi/jalase2/FA/FA1/FA1.tfi" -module FA1 -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work FA1.vhd 
+vhdtdtfi -prj FA1 -o "D:/university/az manteghi/jalase2/FA/FA1/FA1.tfi" -module FA1 -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work FA1.vhd 
+vhdtdtfi -prj FA1 -o "D:/university/az manteghi/jalase2/FA/FA1/FA1.tfi" -module FA1 -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work FA1.vhd 
+xst -intstyle ise -filter "D:/university/az manteghi/jalase2/FA/FA1/iseconfig/filter.filter" -ifn "D:/university/az manteghi/jalase2/FA/FA1/FA1.xst" -ofn "D:/university/az manteghi/jalase2/FA/FA1/FA1.syr" 
+vhdtdtfi -prj FA1 -o "D:/university/az manteghi/jalase2/FA/FA1/FA1.tfi" -module FA1 -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work FA1.vhd 
+vhdtdtfi -prj FA1 -o "D:/university/az manteghi/jalase2/FA/FA1/FA1.tfi" -module FA1 -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work FA1.vhd 
+vhdtdtfi -prj FA1 -o "D:/university/az manteghi/jalase2/FA/FA1/FA1.tfi" -module FA1 -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work FA1.vhd 
+vhdtdtfi -prj FA1 -o "D:/university/az manteghi/jalase2/FA/FA1/FA1.tfi" -module FA1 -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work FA1.vhd 

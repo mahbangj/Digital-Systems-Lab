@@ -1,0 +1,3 @@
+vhdl work "FA1.vhd"
+vhdl work "FA4bit.vhd"
+vhdl work "FA4bit_tb.vhd"

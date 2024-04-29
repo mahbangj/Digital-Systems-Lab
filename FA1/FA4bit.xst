@@ -1,0 +1,5 @@
+set -tmpdir "D:/university/az manteghi/jalase2/FA/FA1/xst/projnav.tmp"
+set -xsthdpdir "D:/university/az manteghi/jalase2/FA/FA1/xst"
+elaborate
+-ifn FA4bit.prj
+-ifmt mixed
