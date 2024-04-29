@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/university/az manteghi/HW/chronometer/T18_TimerTb_isim_beh.exe" -prj "D:/university/az manteghi/HW/chronometer/T18_TimerTb_beh.prj" "work.T18_TimerTb" 

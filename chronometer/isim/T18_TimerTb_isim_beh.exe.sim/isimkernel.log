@@ -1,0 +1,28 @@
+Command line:
+   T18_TimerTb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  7093
+
+Sat Jun 12 22:30:34 2021
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5155.81 Meg
+
+ Total Signals          : 24
+ Total Nets             : 14
+ Total Signal Drivers   : 10
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 6
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 500
+
+ Total Simulation Time: 0.109375 sec
+
+ Current Memory Usage: 4998.52 Meg
+
+Sat Jun 12 22:32:35 2021
+

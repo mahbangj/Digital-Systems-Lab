@@ -1,0 +1,6 @@
+xst -intstyle ise -filter "D:/university/az manteghi/HW/chronometer/iseconfig/filter.filter" -ifn "D:/university/az manteghi/HW/chronometer/T18_Timer.xst" -ofn "D:/university/az manteghi/HW/chronometer/T18_Timer.syr" 
+xst -intstyle ise -filter "D:/university/az manteghi/HW/chronometer/iseconfig/filter.filter" -ifn "D:/university/az manteghi/HW/chronometer/T18_Timer.xst" -ofn "D:/university/az manteghi/HW/chronometer/T18_Timer.syr" 
+xst -intstyle ise -filter "D:/university/az manteghi/HW/chronometer/iseconfig/filter.filter" -ifn "D:/university/az manteghi/HW/chronometer/T18_Timer.xst" -ofn "D:/university/az manteghi/HW/chronometer/T18_Timer.syr" 
+xst -intstyle ise -filter "D:/university/az manteghi/HW/chronometer/iseconfig/filter.filter" -ifn "D:/university/az manteghi/HW/chronometer/T18_Timer.xst" -ofn "D:/university/az manteghi/HW/chronometer/T18_Timer.syr" 
+xst -intstyle ise -filter "D:/university/az manteghi/HW/chronometer/iseconfig/filter.filter" -ifn "D:/university/az manteghi/HW/chronometer/T18_Timer.xst" -ofn "D:/university/az manteghi/HW/chronometer/T18_Timer.syr" 
+xst -intstyle ise -filter "D:/university/az manteghi/HW/chronometer/iseconfig/filter.filter" -ifn "D:/university/az manteghi/HW/chronometer/T18_Timer.xst" -ofn "D:/university/az manteghi/HW/chronometer/T18_Timer.syr" 
