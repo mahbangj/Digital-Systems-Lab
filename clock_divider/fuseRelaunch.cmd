@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/university/az manteghi/HW/clock_divider/clock_divider/tb_isim_beh.exe" -prj "D:/university/az manteghi/HW/clock_divider/clock_divider/tb_beh.prj" "work.tb" 
